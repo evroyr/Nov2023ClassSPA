@@ -8,13 +8,13 @@
 }
 
 #jumbotron > h2 {
-  color: white;
+  color: rgb(66, 55, 55);
   text-align: center;
 }
 
 #jumbotron > a {
   text-decoration: none;
-  background-color: white;
+  background-color: rgb(69, 58, 58);
   font-size: 1.5em;
   padding: 1.5rem;
   border-radius: 10px;
